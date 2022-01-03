@@ -10,5 +10,5 @@ NumPy, Tensorflow, Scikit-learn, and Matplotlib can be installed via pip. Use th
 
 There is a pdf file 'Report', this is the paper that I wrote for this project.
 
-To look at the Source code you can open "Rock, Paper, Scissors Game" file.
+To look at the Source code you can open "Rock, Paper, Scissors Game.ipynb" file.
 
